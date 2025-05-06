@@ -95,3 +95,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Mental health resources and content developed in consultation with mental health professionals
 - Crisis helpline information provided by verified national organizations
 - UI/UX inspired by leading mental health and educational apps # salo
+# salo
